@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Customer_ID,City,Customer_Segment,Product,Category,Quantity,Unit_Price,Discount_Percent,Total_Sales,Payment_Method
+ORD091,2026-01-04,CUST027,Mumbai,Consumer,Monitor,Electronics,1,15000,10,13500.0,Cash
+ORD084,2026-01-05,CUST048,Pune,Consumer,Mouse,Accessories,1,900,15,765.0,Debit Card
+ORD085,2026-01-08,CUST016,Bengaluru,Consumer,Keyboard,Accessories,1,1800,0,1800.0,Net Banking
+ORD095,2026-01-08,CUST032,Chennai,Consumer,Tablet,Electronics,4,22000,10,79200.0,Cash
+ORD058,2026-01-08,CUST008,Chennai,Consumer,Office Chair,Furniture,5,8500,10,38250.0,Net Banking
+ORD002,2026-01-09,CUST002,Hyderabad,Consumer,Backpack,Accessories,1,2200,15,1870.0,Credit Card
+ORD052,2026-01-11,CUST023,Bengaluru,Small Business,Laptop,Electronics,3,65000,10,175500.0,Credit Card
+ORD038,2026-01-13,CUST038,Mumbai,Small Business,Laptop,Electronics,3,65000,0,195000.0,Net Banking
+ORD057,2026-01-18,CUST050,Chennai,Corporate,Office Chair,Furniture,3,8500,10,22950.0,Net Banking
+ORD007,2026-01-21,CUST036,Chennai,Small Business,Backpack,Accessories,1,2200,15,1870.0,Net Banking
+ORD097,2026-01-22,CUST016,Delhi,Corporate,Backpack,Accessories,1,2200,5,2090.0,Cash
+ORD023,2026-01-22,CUST047,Mumbai,Consumer,Keyboard,Accessories,5,1800,0,9000.0,Net Banking
+ORD030,2026-01-25,CUST043,Mumbai,Corporate,Office Chair,Furniture,2,8500,0,17000.0,Cash
+ORD009,2026-01-26,CUST025,Chennai,Corporate,Mouse,Accessories,1,900,5,855.0,Debit Card
+ORD022,2026-01-29,CUST024,Chennai,Consumer,Monitor,Electronics,4,15000,0,60000.0,UPI
+ORD026,2026-01-31,CUST016,Bengaluru,Consumer,Desk,Furniture,5,12000,15,51000.0,Debit Card
+ORD042,2026-02-03,CUST043,Delhi,Corporate,Keyboard,Accessories,3,1800,15,4590.0,Cash
+ORD044,2026-02-03,CUST023,Hyderabad,Consumer,Backpack,Accessories,2,2200,10,3960.0,Debit Card
+ORD016,2026-02-09,CUST041,Bengaluru,Small Business,Smartphone,Electronics,1,30000,0,30000.0,Cash
+ORD019,2026-02-10,CUST030,Hyderabad,Small Business,Smartphone,Electronics,3,30000,15,76500.0,Debit Card
+ORD021,2026-02-11,CUST035,Pune,Consumer,Keyboard,Accessories,2,1800,10,3240.0,Net Banking
+ORD011,2026-02-11,CUST030,Mumbai,Corporate,Tablet,Electronics,2,22000,5,41800.0,Net Banking
+ORD087,2026-02-12,CUST039,Pune,Small Business,Desk,Furniture,3,12000,10,32400.0,UPI
+ORD070,2026-02-15,CUST045,Pune,Corporate,Smartphone,Electronics,4,30000,5,114000.0,UPI
+ORD054,2026-02-15,CUST048,Chennai,Corporate,Headphones,Electronics,4,2500,0,10000.0,Credit Card
+ORD039,2026-02-17,CUST005,Pune,Consumer,Headphones,Electronics,1,2500,0,2500.0,Credit Card
+ORD010,2026-02-23,CUST043,Chennai,Small Business,Headphones,Electronics,3,2500,10,6750.0,UPI
+ORD013,2026-02-24,CUST042,Mumbai,Corporate,Smartphone,Electronics,2,30000,10,54000.0,Cash
+ORD005,2026-02-25,CUST049,Chennai,Consumer,Monitor,Electronics,3,15000,5,42750.0,UPI
+ORD012,2026-02-28,CUST003,Chennai,Corporate,Keyboard,Accessories,3,1800,0,5400.0,Debit Card
+ORD056,2026-02-28,CUST015,Hyderabad,Small Business,Desk,Furniture,3,12000,10,32400.0,Credit Card
+ORD001,2026-03-04,CUST015,Bengaluru,Small Business,Smartphone,Electronics,1,30000,10,27000.0,UPI
+ORD014,2026-03-05,CUST048,Pune,Small Business,Headphones,Electronics,3,2500,5,7125.0,Debit Card
+ORD032,2026-03-05,CUST013,Bengaluru,Small Business,Office Chair,Furniture,3,8500,0,25500.0,Cash
+ORD048,2026-03-06,CUST004,Hyderabad,Small Business,Keyboard,Accessories,3,1800,15,4590.0,Cash
+ORD041,2026-03-08,CUST014,Delhi,Small Business,Office Chair,Furniture,5,8500,10,38250.0,Debit Card
+ORD036,2026-03-09,CUST030,Chennai,Corporate,Office Chair,Furniture,1,8500,15,7225.0,Net Banking
+ORD047,2026-03-11,CUST019,Pune,Consumer,Smartphone,Electronics,5,30000,5,142500.0,Debit Card
+ORD074,2026-03-12,CUST029,Hyderabad,Small Business,Backpack,Accessories,4,2200,5,8360.0,Debit Card
+ORD094,2026-03-13,CUST029,Bengaluru,Corporate,Monitor,Electronics,2,15000,0,30000.0,Net Banking
+ORD033,2026-03-13,CUST030,Bengaluru,Consumer,Headphones,Electronics,4,2500,5,9500.0,Cash
+ORD037,2026-03-17,CUST014,Hyderabad,Small Business,Desk,Furniture,2,12000,5,22800.0,Net Banking
+ORD062,2026-03-18,CUST033,Chennai,Small Business,Tablet,Electronics,3,22000,0,66000.0,Cash
+ORD025,2026-03-21,CUST026,Delhi,Small Business,Office Chair,Furniture,2,8500,5,16150.0,Debit Card
+ORD075,2026-03-23,CUST035,Hyderabad,Consumer,Keyboard,Accessories,3,1800,10,4860.0,Credit Card
+ORD083,2026-03-25,CUST022,Mumbai,Corporate,Monitor,Electronics,2,15000,15,25500.0,Cash
+ORD028,2026-03-26,CUST005,Pune,Consumer,Keyboard,Accessories,1,1800,0,1800.0,Debit Card
+ORD049,2026-03-27,CUST050,Bengaluru,Small Business,Mouse,Accessories,1,900,0,900.0,Debit Card
+ORD096,2026-03-29,CUST018,Pune,Small Business,Keyboard,Accessories,3,1800,10,4860.0,Debit Card
+ORD006,2026-03-30,CUST039,Chennai,Consumer,Office Chair,Furniture,1,8500,10,7650.0,Cash
+ORD015,2026-04-03,CUST015,Bengaluru,Small Business,Tablet,Electronics,4,22000,15,74800.0,Cash
+ORD061,2026-04-04,CUST028,Hyderabad,Small Business,Office Chair,Furniture,1,8500,5,8075.0,Debit Card
+ORD017,2026-04-08,CUST039,Mumbai,Small Business,Tablet,Electronics,1,22000,15,18700.0,Debit Card
+ORD055,2026-04-08,CUST003,Mumbai,Consumer,Mouse,Accessories,2,900,0,1800.0,Credit Card
+ORD060,2026-04-09,CUST037,Bengaluru,Corporate,Office Chair,Furniture,5,8500,0,42500.0,UPI
+ORD081,2026-04-11,CUST038,Pune,Small Business,Desk,Furniture,2,12000,0,24000.0,UPI
+ORD099,2026-04-14,CUST045,Bengaluru,Corporate,Smartphone,Electronics,3,30000,5,85500.0,Net Banking
+ORD064,2026-04-14,CUST036,Hyderabad,Corporate,Headphones,Electronics,5,2500,10,11250.0,Debit Card
+ORD077,2026-04-17,CUST004,Bengaluru,Corporate,Monitor,Electronics,5,15000,15,63750.0,Cash
+ORD100,2026-04-19,CUST048,Pune,Corporate,Monitor,Electronics,4,15000,10,54000.0,Debit Card
+ORD092,2026-04-22,CUST012,Delhi,Small Business,Monitor,Electronics,4,15000,5,57000.0,Debit Card
+ORD072,2026-04-24,CUST040,Delhi,Small Business,Backpack,Accessories,5,2200,10,9900.0,Cash
+ORD071,2026-04-27,CUST009,Mumbai,Small Business,Backpack,Accessories,2,2200,0,4400.0,Net Banking
+ORD043,2026-04-28,CUST040,Pune,Consumer,Monitor,Electronics,1,15000,0,15000.0,UPI
+ORD082,2026-04-29,CUST012,Hyderabad,Corporate,Smartphone,Electronics,4,30000,5,114000.0,Cash
+ORD065,2026-04-30,CUST029,Mumbai,Small Business,Keyboard,Accessories,4,1800,10,6480.0,Credit Card
+ORD093,2026-04-30,CUST028,Delhi,Small Business,Tablet,Electronics,5,22000,15,93500.0,Debit Card
+ORD086,2026-05-02,CUST043,Hyderabad,Small Business,Headphones,Electronics,2,2500,5,4750.0,Credit Card
+ORD073,2026-05-02,CUST029,Chennai,Consumer,Backpack,Accessories,4,2200,5,8360.0,Debit Card
+ORD068,2026-05-02,CUST040,Hyderabad,Corporate,Laptop,Electronics,1,65000,5,61750.0,Cash
+ORD078,2026-05-03,CUST001,Chennai,Corporate,Tablet,Electronics,1,22000,15,18700.0,Cash
+ORD035,2026-05-04,CUST014,Mumbai,Consumer,Headphones,Electronics,4,2500,15,8500.0,Credit Card
+ORD079,2026-05-05,CUST015,Chennai,Corporate,Office Chair,Furniture,5,8500,5,40375.0,Cash
+ORD069,2026-05-07,CUST026,Bengaluru,Consumer,Tablet,Electronics,2,22000,15,37400.0,UPI
+ORD045,2026-05-20,CUST046,Chennai,Small Business,Mouse,Accessories,2,900,15,1530.0,Net Banking
+ORD024,2026-05-21,CUST011,Chennai,Small Business,Headphones,Electronics,2,2500,15,4250.0,Net Banking
+ORD063,2026-05-22,CUST009,Bengaluru,Corporate,Monitor,Electronics,4,15000,10,54000.0,Cash
+ORD050,2026-05-24,CUST001,Hyderabad,Consumer,Headphones,Electronics,4,2500,15,8500.0,Credit Card
+ORD003,2026-05-24,CUST013,Delhi,Small Business,Backpack,Accessories,5,2200,0,11000.0,Net Banking
+ORD090,2026-05-25,CUST003,Chennai,Small Business,Mouse,Accessories,5,900,0,4500.0,Cash
+ORD029,2026-05-27,CUST037,Mumbai,Consumer,Desk,Furniture,2,12000,5,22800.0,Cash
+ORD040,2026-05-29,CUST039,Hyderabad,Small Business,Office Chair,Furniture,1,8500,5,8075.0,UPI
+ORD088,2026-05-29,CUST002,Chennai,Small Business,Headphones,Electronics,3,2500,0,7500.0,Cash
+ORD051,2026-05-30,CUST036,Bengaluru,Corporate,Backpack,Accessories,1,2200,10,1980.0,Credit Card
+ORD004,2026-05-31,CUST018,Hyderabad,Consumer,Office Chair,Furniture,2,8500,15,14450.0,Cash
+ORD027,2026-05-31,CUST015,Hyderabad,Consumer,Laptop,Electronics,5,65000,5,308750.0,UPI
+ORD089,2026-06-01,CUST045,Delhi,Consumer,Office Chair,Furniture,2,8500,0,17000.0,UPI
+ORD059,2026-06-02,CUST028,Chennai,Small Business,Mouse,Accessories,1,900,0,900.0,Debit Card
+ORD053,2026-06-08,CUST048,Bengaluru,Consumer,Smartphone,Electronics,3,30000,15,76500.0,Credit Card
+ORD020,2026-06-10,CUST020,Delhi,Small Business,Backpack,Accessories,2,2200,0,4400.0,Net Banking
+ORD098,2026-06-15,CUST046,Mumbai,Corporate,Backpack,Accessories,2,2200,15,3740.0,UPI
+ORD034,2026-06-16,CUST035,Hyderabad,Consumer,Backpack,Accessories,1,2200,0,2200.0,Credit Card
+ORD066,2026-06-18,CUST006,Chennai,Small Business,Backpack,Accessories,4,2200,5,8360.0,Net Banking
+ORD046,2026-06-19,CUST007,Bengaluru,Corporate,Laptop,Electronics,5,65000,10,292500.0,UPI
+ORD080,2026-06-21,CUST044,Mumbai,Small Business,Laptop,Electronics,4,65000,10,234000.0,Credit Card
+ORD067,2026-06-22,CUST020,Bengaluru,Consumer,Monitor,Electronics,1,15000,5,14250.0,Credit Card
+ORD031,2026-06-22,CUST042,Delhi,Consumer,Office Chair,Furniture,4,8500,0,34000.0,UPI
+ORD018,2026-06-24,CUST035,Chennai,Small Business,Backpack,Accessories,1,2200,0,2200.0,Debit Card
+ORD076,2026-06-30,CUST014,Hyderabad,Corporate,Keyboard,Accessories,4,1800,5,6840.0,Cash
+ORD008,2026-06-30,CUST005,Hyderabad,Small Business,Monitor,Electronics,5,15000,5,71250.0,Credit Card
